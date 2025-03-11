@@ -163,5 +163,28 @@ main {
   color: #c7365f;
 }
 
+.hidden {
+  display: none;
+}
 
+
+
+/*----------Responsive For Mobile Version--------------------*/
+
+@media only screen and (max-width: 760px) {
+  body {
+    height: 100vh;
+  }
+
+  main {
+    width: 38rem;
+    height: 80rem;
+    flex-direction: column;
+  }
+
+  .player {
+    padding: 6rem 4rem;
+    transition: all 0.75s;
+  }
+}
 
