@@ -230,5 +230,13 @@ main {
   .btn--hold {
     top: 69rem;
   }
+    .btn {
+    padding: 0.2rem 1.5rem;
+  }
+  .btn::first-letter {
+    font-size: 2rem;
+    margin-right: 0.6rem;
+  }
+
 }
 
