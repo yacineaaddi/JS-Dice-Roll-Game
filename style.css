@@ -217,5 +217,18 @@ main {
   .current-score {
     font-size: 2.8rem;
   }
+    .dice {
+    top: 35rem;
+    height: 9rem;
+  }
+  .btn--new {
+    top: 1.5rem;
+  }
+  .btn--roll {
+    top: 74rem;
+  }
+  .btn--hold {
+    top: 69rem;
+  }
 }
 
