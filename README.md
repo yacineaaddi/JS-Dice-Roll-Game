@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/JS-Tic-Tac-Toe-Game](https://github.com/yacineaaddi/JS-Dice-Roll-Game)
+Project Link: [https://github.com/yacineaaddi/JS-Dice-Roll-Game](https://github.com/yacineaaddi/JS-Dice-Roll-Game)
