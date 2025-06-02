@@ -1,12 +1,12 @@
-# JS Dice Roll Game
+# 📦 JS Dice Roll Game
 
 A simple and fun two-player dice game built with HTML, CSS, and JavaScript. Players take turns rolling a dice to accumulate points. The first player to reach the winning score wins the game!
 
-## Demo
+## 🔗 Demo
 
 *A live demo link will be added here soon.*
 
-## Features
+## ✨ Features
 
 * **Turn-Based Gameplay** : Two players alternate turns rolling a dice.  
 
@@ -18,7 +18,7 @@ A simple and fun two-player dice game built with HTML, CSS, and JavaScript. Play
 
 * **Reset Functionality** : A "New Game" button resets the scores and restarts the game.
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 
@@ -40,15 +40,15 @@ A simple and fun two-player dice game built with HTML, CSS, and JavaScript. Play
 
    Or simply double-click the `index.html` file.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-* **HTML** : Structures the layout and content of the application.
+* 💻 **HTML** : Structures the layout and content of the application.
 
-* **CSS** : Styles the game interface for a responsive and engaging design.
+* 🎨 **CSS** : Styles the game interface for a responsive and engaging design.
 
-* **JavaScript** : Implements game mechanics including dice rolling, score updates, turn switching, and win detection.
+* ⚙️ **JavaScript** : Implements game mechanics including dice rolling, score updates, turn switching, and win detection.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
 JS-Dice-Roll-Game/
@@ -65,15 +65,15 @@ JS-Dice-Roll-Game/
 └── README.md
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
