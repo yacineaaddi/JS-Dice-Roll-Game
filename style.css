@@ -64,9 +64,11 @@ main {
 .player--active {
   background-color: rgba(255, 255, 255, 0.4);
 }
+
 .player--active .name {
   font-weight: 700;
 }
+
 .player--active .score {
   font-weight: 400;
 }
@@ -74,6 +76,7 @@ main {
 .player--active .current {
   opacity: 1;
 }
+
 .current {
   background-color: #c7365f;
   opacity: 0.8;
@@ -85,8 +88,6 @@ main {
   transition: all 0.75s;
 }
 
-
-
 .current-label {
   text-transform: uppercase;
   margin-bottom: 1rem;
@@ -97,8 +98,6 @@ main {
 .current-score {
   font-size: 3.5rem;
 }
-
-/* Absolute Positioned Elements */
 
 .btn {
   position: absolute;
@@ -113,13 +112,13 @@ main {
   cursor: pointer;
   font-weight: 400;
   transition: all 0.2s;
-  background-color: white;
   background-color: rgba(255, 255, 255, 0.6);
   backdrop-filter: blur(10px);
   padding: 0.7rem 2.5rem;
   border-radius: 50rem;
   box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
 }
+
 .btn::first-letter {
   font-size: 2.4rem;
   display: inline-block;
@@ -129,9 +128,11 @@ main {
 .btn--new {
   top: 4rem;
 }
+
 .btn--roll {
   top: 39.3rem;
 }
+
 .btn--hold {
   top: 46.1rem;
 }
@@ -167,9 +168,7 @@ main {
   display: none;
 }
 
-
-/* ------- Responsive For Mobile Version ------- */
-
+/* Responsive */
 
 @media only screen and (max-width: 760px) {
   body {
@@ -186,6 +185,7 @@ main {
     padding: 6rem 4rem;
     transition: all 0.75s;
   }
+
   .name {
     font-size: 2.5rem;
     margin-top: 1.2rem;
@@ -200,9 +200,11 @@ main {
   .player--active .name {
     font-weight: 700;
   }
+
   .player--active .score {
     font-weight: 400;
   }
+
   .current {
     width: 45%;
     padding: 1rem;
@@ -217,26 +219,30 @@ main {
   .current-score {
     font-size: 2.8rem;
   }
-    .dice {
+
+  .dice {
     top: 35rem;
     height: 9rem;
   }
+
   .btn--new {
     top: 1.5rem;
   }
+
   .btn--roll {
     top: 74rem;
   }
+
   .btn--hold {
     top: 69rem;
   }
-    .btn {
+
+  .btn {
     padding: 0.2rem 1.5rem;
   }
+
   .btn::first-letter {
     font-size: 2rem;
     margin-right: 0.6rem;
   }
-
 }
-
